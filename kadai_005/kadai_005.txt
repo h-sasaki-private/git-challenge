@@ -1,0 +1,11 @@
+PS C:\Users\sasak\Documents\lesson\git> git add .\git_challenge\
+PS C:\Users\sasak\Documents\lesson\git> git commit -m 'hello_world.txtǉ'
+[main e2d0fc2] hello_world.txtを追加
+ 1 file changed, 1 insertion(+)
+ create mode 100644 git_challenge/Hello,World!.txt
+PS C:\Users\sasak\Documents\lesson\git> git add .\git_challenge\
+PS C:\Users\sasak\Documents\lesson\git> git commit -m '{ǋL'enge\
+[main f449cef] 日本語訳を追記
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+ delete mode 100644 git_challenge/Hello,World!.txt
+ create mode 100644 git_challenge/hello_world.txt
